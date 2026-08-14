@@ -1,0 +1,1 @@
+# vfs-product-images
